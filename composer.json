@@ -9,6 +9,8 @@
             "email": "khanhln.c1003j@gmail.com"
         }
     ],
+    "prefer-stable": true,
+    "minimum-stability": "dev",
     "require": {
         "php": ">=5.3.0"
     },
