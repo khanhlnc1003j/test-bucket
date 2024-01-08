@@ -1,8 +1,9 @@
 {
+    "version": "1.0.0",
     "name": "khanhlnc1003j/test-bucket",
     "description": "the first composer package",
     "type": "php",
-    "license": "tet",
+    "license": "GPL-3.0+",
     "authors": [
         {
             "name": "khanh",
